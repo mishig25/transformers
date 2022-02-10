@@ -248,8 +248,6 @@
       title: PhoBERT
     - local: model_doc/prophetnet
       title: ProphetNet
-    - local: model_doc/qdqbert
-      title: QDQBert
     - local: model_doc/rag
       title: RAG
     - local: model_doc/realm
